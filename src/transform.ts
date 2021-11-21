@@ -29,9 +29,9 @@ export function transformLibraryImport(
       return `import ${componentName} from "${statement.library}${library.libraryDirectory}/${newComponentName}";`
     })
     return {
-      pos: statement.pos + 1,
+      pos: statement.pos,
       end: statement.end,
-      text: imports.join('\n'),
+      text: '\n' + imports.join('\n'),
     }
   })
 
