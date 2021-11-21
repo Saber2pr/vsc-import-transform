@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/Saber2pr/vsc-import-transform/compare/v0.0.3...v0.0.4) (2021-11-21)
+
+
+### Features
+
+* deep transform ([5b484fb](https://github.com/Saber2pr/vsc-import-transform/commit/5b484fbc4aa3dfb714878832a019c99ede05bd0c))
+
 ### [0.0.3](https://github.com/Saber2pr/vsc-import-transform/compare/v0.0.2...v0.0.3) (2021-11-21)
 
 
